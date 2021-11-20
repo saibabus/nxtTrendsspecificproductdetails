@@ -1,0 +1,67 @@
+/* Write your CSS here */
+.eachlistItemCon {
+  width: 180px;
+  display: flex;
+  flex-direction: column;
+  margin: 5px;
+}
+.image-sim {
+  width: 80%;
+  border-radius: 10px;
+}
+
+.sim-heaing {
+  color: #171f46;
+  font-family: 'Roboto';
+  font-size: 12px;
+  font-weight: 500;
+  margin-top: 20px;
+  margin-bottom: 8px;
+  align-self: flex-start;
+}
+.sim-brand {
+  color: #594d6d;
+  font-family: 'Roboto';
+  font-size: 10px;
+  margin-bottom: 6px;
+}
+.rate-ratingCon {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.sim-price {
+  color: #171f46;
+  font-family: 'Roboto';
+  font-size: 12px;
+  font-weight: 500;
+  margin-top: 20px;
+  margin-bottom: 8px;
+}
+
+.ratingStarCon {
+  display: flex;
+  padding: 3px;
+  border-radius: 5px;
+  border: none;
+  justify-content: center;
+  background-color: #3b82f6;
+  color: #ffffff;
+  align-items: center;
+  width: 60px;
+}
+.sim-ratin {
+  font-family: 'Roboto';
+  font-size: 12px;
+  font-weight: 500;
+  margin: 0px;
+}
+.sim-star {
+  width: 18px;
+  margin-left: 2px;
+}
+.contentCon {
+  width: 80%;
+  display: flex;
+  flex-direction: column;
+}
